@@ -1,3 +1,3 @@
 import sqlite3
 
-print("asd")
+print("qwe")
